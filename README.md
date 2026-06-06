@@ -116,16 +116,17 @@ Abel Chimbua Wanda
 
 Telecommunications and Computer Networks Engineer, Data Analyst and Data Warehouse Enthusiast.
 
-Areas of interest:
+### Areas of Interest
 
-Data Analytics
-Data Engineering
-Data Warehousing
-Business Intelligence
-Data Modeling
-Analytics Engineering
-Microsoft Fabric
-Oracle Database
+* 📊 Data Analytics
+* ⚙️ Data Engineering
+* 🏗️ Data Warehousing
+* 📈 Business Intelligence
+* 🗄️ Data Modeling
+* 🔍 Analytics Engineering
+* ☁️ Microsoft Fabric
+* 🛢️ Oracle Database
+
 
 Currently working on Data Warehouse, Analytics and Business Intelligence projects focused on transforming raw data into strategic business insights.
 Let's stay in touch! Feel free to connect with me on the following platforms:
