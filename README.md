@@ -131,7 +131,9 @@ Currently working on Data Warehouse, Analytics and Business Intelligence project
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baraa-khatib-salkini](https://www.linkedin.com/in/abel-chimbua-wanda-473922194/))
-[![GitHub]([https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.datawithbaraa.com](https://github.com/AbelCWanda))
-[![Notion]([https://img.shields.io/badge/Newsletter-FF5722?style=for-the-badge&logo=substack&logoColor=white)](https://bit.ly/BaraaNewsletter](https://app.notion.com/p/SQL-Data-Warehouse-Project-3750a9beb64080cb8d0af6228fdb96ba))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abel-chimbua-wanda-473922194/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbelCWanda)
+
+[![Notion](https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=notion&logoColor=black)](https://app.notion.com/p/SQL-Data-Warehouse-Project-3750a9beb64080cb8d0af6228fdb96ba)
 
